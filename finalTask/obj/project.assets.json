@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Roman/Documents/YuliyaGB/FinalWork1quarter/finalTask/finalTask.csproj",
+      "projectUniqueName": "/Users/Roman/Documents/YuliyaGB/FinalWork1quarter/FinalWork1quarter/finalTask/finalTask.csproj",
       "projectName": "finalTask",
-      "projectPath": "/Users/Roman/Documents/YuliyaGB/FinalWork1quarter/finalTask/finalTask.csproj",
+      "projectPath": "/Users/Roman/Documents/YuliyaGB/FinalWork1quarter/FinalWork1quarter/finalTask/finalTask.csproj",
       "packagesPath": "/Users/Roman/.nuget/packages/",
-      "outputPath": "/Users/Roman/Documents/YuliyaGB/FinalWork1quarter/finalTask/obj/",
+      "outputPath": "/Users/Roman/Documents/YuliyaGB/FinalWork1quarter/FinalWork1quarter/finalTask/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Roman/.nuget/NuGet/NuGet.Config"
